@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">DevFest</string>
+    <string name="counter_button">Click me</string>
+    <string name="toast_button" translatable="false">Toast</string>
+</resources>
