@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="counter_button">Нажми на меня</string>
+    <string name="articles_title">Статьи</string>
+    <string name="back">Назад</string>
+    <string name="help" translatable="false">Помощь</string>
 </resources>

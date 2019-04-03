@@ -2,4 +2,7 @@
     <string name="app_name" translatable="false">DevFest</string>
     <string name="counter_button">Click me</string>
     <string name="toast_button" translatable="false">Toast</string>
+    <string name="articles_title">Articles</string>
+    <string name="back">Back</string>
+    <string name="help">Help</string>
 </resources>
